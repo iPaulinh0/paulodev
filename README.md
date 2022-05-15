@@ -1,4 +1,4 @@
-# paulo.dev Portifólio
+# paulodev Portifólio
 
 ## Descrição (Description)
 
@@ -24,7 +24,7 @@ And in the future, will have a blog to share information and my aknowledgements.
 
 - Styled Components
 > npm install styled-components @types/styled-components
-> ou (or)
+ ou (or)
 > yarn add styled-components @types/styled-components
 
 ## Para Rodas (To-Run)
@@ -33,5 +33,5 @@ Instalar as dependências citadas acima, clonar o repositório e dar o comando:
 (Install dependencies above, clone this repositorie and type the command:)
 
 > yarn dev
-> ou (or)
+ ou (or)
 > npm dev
