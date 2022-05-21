@@ -47,15 +47,15 @@ export const Image = styled.img`
 
 export const Title = styled.h1`
     font-size: 72px;
-    font-family: 'Roboto';
-    font-weight: 900;
+    font-family: 'Montserrat';
+    font-weight: 800;
     color: #232323;
     margin: 0;
 `
 
 export const Subtitle = styled.h2`
     font-size: 25px;
-    font-family: 'roboto';
+    font-family: 'Montserrat';
     font-weight: 400;
     color: #232323;
     letter-spacing: 0.18em;
@@ -64,7 +64,7 @@ export const Subtitle = styled.h2`
 
 export const Intertitle = styled.h3`
     font-size: 22px;
-    font-family: 'Roboto';
+    font-family: 'Montserrat';
     font-weight: 400;
     color: #232323;
     letter-spacing: 0.115em;

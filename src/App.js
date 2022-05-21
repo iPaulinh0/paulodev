@@ -1,3 +1,4 @@
+import AboutMe from "./Pages/AboutMe";
 import Home from "./Pages/Home";
 import { GlobalStyle } from "./styles/globalStyles";
 import { Container } from "./styles/styles";
@@ -8,6 +9,7 @@ export default function App() {
       <GlobalStyle />
         <Container>
           <Home />
+          <AboutMe />
         </Container>
       </>
   );
