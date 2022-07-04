@@ -14,18 +14,26 @@ And in the future, will have a blog to share information and my aknowledgements.
 
 ## Progresso (Progress)
 
+### Estrutura
+
 - Header: :white_check_mark:
 - Home: :white_check_mark:
 - About Me: :white_check_mark:
-- Habilities: :x:
+- How Can I Help You: :white_check_mark:
+- Habilities: :white_check_mark:
 - Contact-Me: :x:
+- Footer: :x:
+
+### Animações
+
+- ScrollReveal: :x:
 
 ## Dependências (Dependencies)
 
 - Styled Components
-> npm install styled-components @types/styled-components
- ou (or)
-> yarn add styled-components @types/styled-components
+  > npm install styled-components @types/styled-components
+  > ou (or)
+  > yarn add styled-components @types/styled-components
 
 ## Para Rodas (To-Run)
 
@@ -33,5 +41,5 @@ Instalar as dependências citadas acima, clonar o repositório e dar o comando:
 (Install dependencies above, clone this repositorie and type the command:)
 
 > yarn dev
- ou (or)
+> ou (or)
 > npm dev
