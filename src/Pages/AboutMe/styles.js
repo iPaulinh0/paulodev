@@ -6,22 +6,14 @@ export const Container = styled.div`
     display: flex;
     flex-direction: column;
     width: 100vw;
-    height: 1321px;
-    background-color: #EEEEEE;
-    margin: auto;
+    height: 500px;
+    background-color: #8F00FF;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
 `
 
 /* Estilo do container do perfil  */
-
-export const ProfileContainer = styled.div`
-    display: flex;
-    flex-direction: column;
-    width: 100vw;
-    justify-content: center;
-    align-items: center;
-    padding: 25px 0;
-    background-color: #8F00FF;
-`
 
 export const Title = styled.h1`
     font-size: 30px;
@@ -49,17 +41,7 @@ export const Paragraph = styled.h3`
     line-height: 124%;
     text-align: center;
     color:#fff;
-    width: 960px;
+    width: 975px;
     height: 310px;
     padding: 15px 0;
-`
-
-export const Habilities = styled.div`
-    display: flex;
-    background-color: #fff;
-    width: 960px;
-    height: 206px;
-    box-shadow: 8px 3px 51px 5px rgba(0, 0, 0, 0.25);
-    border-radius: 17px;
-    z-index: 10;
 `

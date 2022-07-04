@@ -1,6 +1,10 @@
 import {createGlobalStyle} from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
+  html {
+    overflow-x: hidden;
+  }
+
   body {
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&family=Roboto:wght@400;500;700;800&display=swap');
     margin: 0;

@@ -9,6 +9,10 @@ export const Container = styled.div`
     height: 100vh;
     background-color: #EEEEEE;
     background-image: url(background.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: auto;
 `
 
