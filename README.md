@@ -10,7 +10,7 @@ And in the future, will have a blog to share information and my aknowledgements.
 
 ## Tecnologias (Technologies)
 
-- NextJS <img align="center" alt="paulo-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+- ReactJS <img align="center" alt="paulo-HTML" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 ## Progresso (Progress)
 
