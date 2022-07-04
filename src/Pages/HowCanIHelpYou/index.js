@@ -47,6 +47,7 @@ import MobileIMG from "../../assets/mobile.png"
                   <Title2>MOBILE</Title2>
                 </Card>
                 <Paragraph>Aplicando os métodos de responsividade ou criando um aplicativo, conseguiremos alcançar o grande público do mobile.</Paragraph>
+                <Title3>Ferramentas:</Title3>
                 <ToolsImage src={React} />
                 <ToolsImage src={VSCode} />
               </Mobile>
