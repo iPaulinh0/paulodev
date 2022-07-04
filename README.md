@@ -16,7 +16,7 @@ And in the future, will have a blog to share information and my aknowledgements.
 
 - Header: :white_check_mark:
 - Home: :white_check_mark:
-- About Me: :x:
+- About Me: :white_check_mark:
 - Habilities: :x:
 - Contact-Me: :x:
 
